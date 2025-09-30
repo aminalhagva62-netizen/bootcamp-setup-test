@@ -1,1 +1,1 @@
-console.log("сайн уу, Github! Миний анхны commit.")
+prompt("сайн уу, Amina!")
