@@ -1,0 +1,1 @@
+console.log("сайн уу, Github! Миний анхны commit.")
